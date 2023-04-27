@@ -6,10 +6,10 @@ This repository contains code and related materials for the machine learning cou
 ## Introduction
 
 This repository covers the following topics:
-- Linear Regression:
+- **Linear Regression:**
 - Simple Linear Regression
 - Multiple Linear Regression
-- Classification Problems:
+- **Classification Problems:**
 - Logistic Regression
 - Support Vector Machines (SVM)
 - K-Nearest Neighbors (KNN)
