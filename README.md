@@ -6,13 +6,13 @@ This repository contains code and related materials for the machine learning cou
 ## Introduction
 
 This repository covers the following topics:
-Linear Regression:
-Simple Linear Regression
-Multiple Linear Regression
-Classification Problems:
-Logistic Regression
-Support Vector Machines (SVM)
-K-Nearest Neighbors (KNN)
+- Linear Regression:
+- Simple Linear Regression
+- Multiple Linear Regression
+- Classification Problems:
+- Logistic Regression
+- Support Vector Machines (SVM)
+- K-Nearest Neighbors (KNN)
 
 ## Dependencies
 To run the code in this repository, you'll need the following Python libraries:
