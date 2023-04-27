@@ -1,9 +1,9 @@
 ## CMPUT466
-Machine Learning Course: Linear Regression and Classification Problems
+# Machine Learning Course: Linear Regression and Classification Problems
 
 This repository contains code and related materials for the machine learning course I am taking. The main focus of this repository is on linear regression and classification problems. The code is implemented using Python and popular machine learning libraries.
 
-##Introduction
+# Introduction
 
 This repository covers the following topics:
 Linear Regression:
@@ -14,14 +14,14 @@ Logistic Regression
 Support Vector Machines (SVM)
 K-Nearest Neighbors (KNN)
 
-Dependencies
+# Dependencies
 To run the code in this repository, you'll need the following Python libraries:
 numpy
 pandas
 matplotlib
 scikit-learn
 
-Datasets
+# Datasets
 
 This repository uses the following datasets for demonstrating the algorithms:
 
